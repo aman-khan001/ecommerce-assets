@@ -24,9 +24,9 @@ This repository contains various e-commerce-related images categorized into diff
 
 ## 🚀 How to Use
 
-1. Clone the repository:
+1. Download From Here:
    ```sh
-   git clone https://github.com/your-username/ecommerce-image-assets.git
+   [git clone https://github.com/your-username/ecommerce-image-assets.git](https://github.com/aman-khan001/ecommerce-assets/archive/refs/heads/main.zip)
    ```
 2. Browse through the directories and pick the images you need.
 3. Use them in your e-commerce projects freely.
