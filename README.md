@@ -10,17 +10,16 @@ This repository contains various e-commerce-related images categorized into diff
 - Electronics
 - Clothing & Fashion
 - Home & Furniture
-- Grocery & Food
+- Mobile & Laptops
 
 ### **2️⃣ UI/UX Images 🎨**
 - Logos & Branding
 - Banners & Hero Images
 - Backgrounds & Patterns
-- Icons & Illustrations
 
 ### **3️⃣ Category Images 📂**
 - Featured Categories
-- Discount & Sale Graphics
+- Sale Graphics
 - Seasonal Promotions
 
 ## 🚀 How to Use
@@ -32,15 +31,9 @@ This repository contains various e-commerce-related images categorized into diff
 2. Browse through the directories and pick the images you need.
 3. Use them in your e-commerce projects freely.
 
-## 🤝 Contributing
-We welcome contributions! Follow these steps to contribute:
-
-1. Fork this repository.
-2. Add your images to the relevant category folders.
-3. Create a pull request (PR) with a short description of your changes.
 
 ## 📜 License
-This project is open-source and licensed under the **MIT License**. Feel free to use, modify, and distribute these assets.
+This project is open-source. Feel free to use, modify, and distribute these assets.
 
 ## ⭐ Support
 If you find this repository useful, **give it a star ⭐ and share it**! 😊
